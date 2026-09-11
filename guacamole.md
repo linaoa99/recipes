@@ -7,3 +7,4 @@ Guacamole
 * Salt
 
 ## Instructions
+* put one avocado into a bowl.
