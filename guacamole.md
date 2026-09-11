@@ -7,3 +7,4 @@ Guacamole
 * Salt
 
 ## Instructions
+* peel the avocados
