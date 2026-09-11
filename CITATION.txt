@@ -1,0 +1,13 @@
+To reference Lina Anderssons's code in publications, please cite:
+
+Lina Andersson: "Recipes". BlaBlaResearch,
+2026, 14:41 (doi: 10.12688/blablaresearch.3-62.v2).
+
+@online{recipes-2026,
+  author      = {Lina Andersson},
+  title       = {Recipes},
+  version     = {1},
+  date        = {2026-09-11},
+  url         = {http://blablaresearch.com/articles/3-62/v2},
+  doi         = {10.12688/blablaresearch.3-62.v2}
+}
