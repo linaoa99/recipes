@@ -7,4 +7,6 @@ Guacamole
 * Salt
 
 ## Instructions
-* peel the avocados
+* put one avocado into a bowl
+* peel the avocado
+
